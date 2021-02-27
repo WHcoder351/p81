@@ -1,0 +1,17 @@
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_background {
+background-image: url("https://th.bing.com/th/id/R625ba8e60bf8b3de8037221782e9e425?rik=Up4bLfb7x%2fhaPw&riu=http%3a%2f%2fwww.spinityhoops.com%2fuploads%2f2%2f7%2f4%2f8%2f27488749%2fpublished%2f49204564-10161171047090526-7813864044909035520-n_1.jpg%3f1566788885&ehk=y7GruhM9%2bxqq68UGcxD4QtzUqlDAOQlC%2fqaIbaJDJ6w%3d&risl=&pid=ImgRaw");
+background-position: center;
+background-size: cover;
+}
+
+#Can-Can{
+background-color: rgb(94, 92, 92);
+border-color: coral;
+border-width: 10px ;
+border-style: ridge;
+}
